@@ -1,4 +1,4 @@
-# Howdy! 
+# Welcome!
 
 My name is Zachary Roman, I am  a behavioral statistician and methodologist at the University of Zurich (UZH),
 Switzerland. I am predominately focus on developing novel statistical approaches for behavioral phenomena.
